@@ -1,2 +1,2 @@
-Práticas de programação orientada a objetos.
+Práticas de programação orientada a objetos em Java.
 
