@@ -1,2 +1,1 @@
-Práticas de programação orientada a objetos em Java.
-
+Aprofundamento nas práticas de programação orientada a objetos, por meio da criação de diversos projetos na linguagem Java.
