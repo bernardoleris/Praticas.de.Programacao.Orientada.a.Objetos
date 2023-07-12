@@ -1,1 +1,1 @@
-Aprofundamento nas práticas de programação orientada a objetos, por meio da criação de diversos projetos na linguagem Java.
+Aprofundamento nas práticas de programação orientada a objetos, por meio da criação de diversos projetos, os quais envolvem conteúdos como coleções, design de classes, herança avançada, diagrama de classes UML, interfaces gráficas e tratamento de excessões, na linguagem Java.
