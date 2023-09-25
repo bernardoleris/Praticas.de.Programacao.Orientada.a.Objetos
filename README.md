@@ -1,1 +1,1 @@
-Aprofundamento nas práticas de programação orientada a objetos, por meio da criação de diversos projetos, os quais envolvem conteúdos como coleções, design de classes, herança avançada, diagrama de classes UML, interfaces gráficas, tratamento de excessões e padrões de projeto, na linguagem Java.
+Deepening practices in object-oriented programming through the creation of various projects involving topics such as collections, class design, advanced inheritance, UML class diagram, graphical interfaces, exception handling, and design patterns, in the Java language.
